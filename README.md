@@ -11,7 +11,7 @@ This project showcases a professional HR Analytics Dashboard created in Microsof
 
 ## 📁 Files Included
 - `HR_Dashboard.xlsx` – The main Excel dashboard
-- `hr_dashboard.png` – HR.png
+- `HR dashboard` – HR.png
 
 ## 🛠 Tools Used
 - Microsoft Excel
@@ -34,7 +34,7 @@ This Excel dashboard provides a comprehensive view of sales performance across d
 
 ## 📁 Files Included
 - `sales.xlsx` – The main Excel dashboard
-- `sales.png` – sales.png
+- `sales dashboard` – sales.png
 
 ## 🛠 Tools Used
 - Microsoft Excel
